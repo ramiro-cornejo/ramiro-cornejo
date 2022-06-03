@@ -1,4 +1,5 @@
-###👋Hola, mi nombre es Ramiro Cornejo.
+👋Hola, mi nombre es Ramiro Cornejo.
+
 ![BannerFrontend](https://user-images.githubusercontent.com/95107034/171759833-cb225a37-fe09-411c-bda5-420cbb710be2.jpg)
 
 
