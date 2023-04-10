@@ -1,6 +1,6 @@
 ## 👋Hola, mi nombre es Ramiro Cornejo.
 
-![BannerFrontend](![BannerFrontend](https://user-images.githubusercontent.com/95107034/230916914-0d87873a-abf2-4d68-b070-57758cb9bcc4.png)
+![](![BannerFrontend](https://user-images.githubusercontent.com/95107034/230916914-0d87873a-abf2-4d68-b070-57758cb9bcc4.png)
 
 
 
