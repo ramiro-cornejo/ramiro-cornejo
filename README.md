@@ -8,6 +8,6 @@ Anteriormente era estudiante de la Facultad de Arquitectura, Urbanismo y Diseño
 Motivado a seguir aprendiendo y explorando nuevos conocimientos.🙌
 
 
-📧Correo electrónico: ramiro.s.cornejo@gmail.com
-✏LinkedIn: www.linkedin.com/in/ramiro-cornejo
+📧[Correo electrónico](mailto:ramiro.s.cornejo@gmail.com)
+✏ [LinkedIn](https://www.linkedin.com/in/ramiro-cornejo/)
 
